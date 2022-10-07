@@ -1,0 +1,59 @@
+h1 {text-align: center;
+	font-family: Arial;
+	color: black;
+	size: 18px;
+}
+
+th {font-family: Arial;
+color: red;
+font-size: 20px;
+text-align: center;
+	}
+	
+tr {font-family: Meiryo;
+font-size: 18px;
+color: black;
+	}
+	
+caption {font-family: Meiryo;
+font-size: 18px;
+color: black;
+	}
+	
+table{
+	text-align: center;
+	width: 500px;
+	/*border-spacing: 1px;*/
+	border-collapse: collapse;
+	}
+	
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+	
+ th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+}
+
+	tr:nth-child(odd) {
+			background-color: white;
+	}
+	
+	tr:nth-child(even) {
+		background-color: #ddd;
+	}
+
+body{
+	position: relative;
+	font-family: Meiryo;
+	size: 14px;
+	color: black;
+	background-color: #c7d9d2;
+}
+
+p {
+	color: #c7d9d2;
+}	
