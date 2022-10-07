@@ -55,5 +55,7 @@ body{
 }
 
 p {
-	color: #5C727E;
-}	
+	font-family: Arial;
+	size: 10px;
+	color: #5c727e;
+}
